@@ -1,0 +1,6 @@
+inclub"stdio.h"
+
+void main()
+{
+	printf("hellow,word");
+}
